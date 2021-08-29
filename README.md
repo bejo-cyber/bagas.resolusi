@@ -1,0 +1,2 @@
+# bagas.resolusi
+untuk web
